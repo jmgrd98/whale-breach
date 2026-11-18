@@ -1,0 +1,4 @@
+film/frames/
+shots/
+.DS_Store
+node_modules/
